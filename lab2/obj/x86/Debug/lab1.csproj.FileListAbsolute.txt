@@ -1,0 +1,17 @@
+E:\Work\Freelance\SkladLabs\lab1\lab1\bin\Debug\lab1.exe.config
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.MainForm.resources
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+E:\Work\Freelance\SkladLabs\lab1\lab1\bin\Debug\lab1.exe
+E:\Work\Freelance\SkladLabs\lab1\lab1\bin\Debug\lab1.pdb
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.exe
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.pdb
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.ProductForm.resources
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.ProductInStockForm.resources
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.ActionForm.resources
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.StockForm.resources
+E:\Work\Freelance\SkladLabs\lab1\lab1\obj\x86\Debug\lab1.OrganizationForm.resources
+E:\Work\Freelance\SkladLabs\lab2\lab1\bin\Debug\lab1.exe.config
+E:\Work\Freelance\SkladLabs\lab2\lab1\obj\x86\Debug\lab1.exe
+E:\Work\Freelance\SkladLabs\lab2\lab1\obj\x86\Debug\lab1.pdb
